@@ -14,7 +14,7 @@ The goal of these projects is to develop practical skills in:
 | No. | Project | Status |
 |-----|----------|---------|
 | 01 | 12V AC to DC Converter | ✅ Complete |
-
+| 02 | Motor Driver | ✅ Complete |
 
 ## Learning Goal
 
