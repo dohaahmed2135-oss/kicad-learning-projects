@@ -15,6 +15,7 @@ The goal of these projects is to develop practical skills in:
 |-----|----------|---------|
 | 01 | 12V AC to DC Converter | ✅ Complete |
 | 02 | Motor Driver | ✅ Complete |
+| 03 | STM32 GPS Tracker with SIM808 | ✅ Complete |
 
 ## Learning Goal
 
