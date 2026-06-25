@@ -16,7 +16,7 @@ The goal of these projects is to develop practical skills in:
 | 01 | 12V AC to DC Converter | ✅ Complete |
 | 02 | Motor Driver | ✅ Complete |
 | 03 | STM32 GPS Tracker with SIM808 | ✅ Complete |
-
+| 04 | STM32 BLUETOOTH  | ✅ Complete |
 ## Learning Goal
 
 This repository serves as a record of my progress toward designing complete embedded systems, from simple practice boards to custom microcontroller-based PCBs.
