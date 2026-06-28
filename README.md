@@ -89,12 +89,12 @@ Designed a custom STM32 Bluetooth development board to gain experience with wire
 <table>
 <tr>
 <td align="center">
-<img src="04-STM32_BLUETOOTH/PCB layout.png" width="420"><br>
+<img src="04-STM32_Bluetooth/PCB layout.png" width="420"><br>
 <b>PCB Layout</b>
 </td>
 
 <td align="center">
-<img src="04-STM32_BLUETOOTH/3D front view.png" width="420"><br>
+<img src="04-STM32_Bluetooth/3D front view.png" width="420"><br>
 <b>3D Front View</b>
 </td>
 </tr>
@@ -109,12 +109,12 @@ Designed a four-layer ESP32-S3 IoT development board featuring sensor interfaces
 <table>
 <tr>
 <td align="center">
-<img src="05-ESP32-S3-IOT-TESTBOARD/PCB layout.png" width="420"><br>
+<img src="05-ESP32-S3-IOT-Testboard/PCB layout.png" width="420"><br>
 <b>PCB Front Layout</b>
 </td>
 
 <td align="center">
-<img src="05-ESP32-S3-IOT-TESTBOARD/3D front view.png" width="420"><br>
+<img src="05-ESP32-S3-IOT-Testboard/3D front view.png" width="420"><br>
 <b>3D Front View</b>
 </td>
 </tr>
