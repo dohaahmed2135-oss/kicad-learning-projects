@@ -29,13 +29,13 @@ Designed a PCB for converting AC voltage to a regulated DC output while learning
 <table>
 <tr>
 <td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/01-12V_AC_to_DC_Converter/PCB.png" width="420"><br>
+<img src="01-12V_AC_to_DC_Converter/PCB.png" width="420"><br>
 <b>PCB Layout</b>
 </td>
 
 <td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/01-12V_AC_to_DC_Converter/3D_front_view.png" width="420"><br>
-<b>3D View</b>
+<img src="01-12V_AC_to_DC_Converter/3D_front_view.png" width="420"><br>
+<b>3D Front View</b>
 </td>
 </tr>
 </table>
@@ -49,13 +49,13 @@ Designed a motor driver PCB to practice component placement, power routing, and 
 <table>
 <tr>
 <td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/02-Motor_driver/PCB_layout.png" width="420"><br>
+<img src="02-Motor_driver/PCB_layout.png" width="420"><br>
 <b>PCB Layout</b>
 </td>
 
 <td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/02-Motor_driver/front_view.png" width="420"><br>
-<b>3D View</b>
+<img src="02-Motor_driver/front_view.png" width="420"><br>
+<b>3D Front View</b>
 </td>
 </tr>
 </table>
@@ -69,53 +69,53 @@ Designed an STM32-based GPS tracking PCB integrating the SIM808 GSM/GPRS and GPS
 <table>
 <tr>
 <td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/03-STM32-GPS-Tracker/Front PCB Layout.png" width="420"><br>
-<b>PCB Layout</b>
+<img src="03-STM32-GPS-Tracker/Front PCB Layout.png" width="420"><br>
+<b>PCB Front Layout</b>
 </td>
 
 <td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/03-STM32-GPS-Tracker/3D Front view.png" width="420"><br>
-<b>3D View</b>
-</td>
-</tr>
-</table>
-
----
-
-## 04 - Project Name
-
-Short description of the project.
-
-<table>
-<tr>
-<td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/04-STM32_BLUETOOTH/PCB layout.png" width="420"><br>
-<b>PCB Layout</b>
-</td>
-
-<td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/04-STM32_BLUETOOTH/3D front view.png" width="420"><br>
-<b>3D View</b>
+<img src="03-STM32-GPS-Tracker/3D Front view.png" width="420"><br>
+<b>3D Front View</b>
 </td>
 </tr>
 </table>
 
 ---
 
-## 05 - Project Name
+## 04 - STM32 Bluetooth 
 
-Short description of the project.
+Designed a custom STM32 Bluetooth development board to gain experience with wireless embedded hardware design. This project focused on Bluetooth module integration, PCB placement, routing, and overall board organization.
 
 <table>
 <tr>
 <td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/05-ESP32-S3-IOT-TESTBOARD/PCB layout.png" width="420"><br>
+<img src="04-STM32_BLUETOOTH/PCB layout.png" width="420"><br>
 <b>PCB Layout</b>
 </td>
 
 <td align="center">
-<img src="dohaahmed2135-oss/kicad-learning-projects/05-ESP32-S3-IOT-TESTBOARD/3D front view.png" width="420"><br>
-<b>3D View</b>
+<img src="04-STM32_BLUETOOTH/3D front view.png" width="420"><br>
+<b>3D Front View</b>
+</td>
+</tr>
+</table>
+
+---
+
+## 05 - ESP32 S3 IOT Testboard
+
+Designed a four-layer ESP32-S3 IoT development board featuring sensor interfaces and a QWIIC connector. This project provided practical experience with multilayer PCB design, power distribution, and high-density routing techniques.
+
+<table>
+<tr>
+<td align="center">
+<img src="05-ESP32-S3-IOT-TESTBOARD/PCB layout.png" width="420"><br>
+<b>PCB Front Layout</b>
+</td>
+
+<td align="center">
+<img src="05-ESP32-S3-IOT-TESTBOARD/3D front view.png" width="420"><br>
+<b>3D Front View</b>
 </td>
 </tr>
 </table>
@@ -126,5 +126,15 @@ Short description of the project.
 The purpose of this repository is to document my progress in PCB design while building a strong foundation in embedded systems and hardware engineering.
 
 My long-term goal is to design complete embedded and robotics systems by combining PCB design, embedded software, CAD, and robotics.
+
+# Acknowledgements
+
+The projects in this repository were completed as part of my PCB design learning journey using the following educational resources:
+
+Ampnics – Master KiCad With Projects (Projects 01–03)
+
+Phil's Lab – KiCad 7 STM32 Bluetooth Hardware Design (Project 04)
+
+KiCad 9: Design an ESP32-S3 IoT 4-layer PCB with Sensor and QWIIC Interface – Complete Guide (Project 05)
 
 
